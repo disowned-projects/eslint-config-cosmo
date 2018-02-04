@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/doshisid/eslint-config-cosmo",
   "author": "Siddharth Doshi <sidoshi510@gmail.com> (https://sid.sh/)",
+  "keywords": ["eslint", "eslintconfig"],
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^8.2.1",
